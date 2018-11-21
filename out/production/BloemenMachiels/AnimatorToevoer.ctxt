@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m\ v
+comment0.target=AnimatorToevoer(Model,\ GroteView)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ AnimatorToevoer\n\ \n\ @param\ model\ het\ model\ van\ de\ simulatie\n\ @param\ view\ de\ view\ van\ de\ simulatie\ (uitstroming\ +\ stroming\ vat)\n\ \n\ @author\ Jarne\ Machiels\n\ @version\ 17/11/2014\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\n\ Deze\ methode\ zorgt\ ervoor\ dat\ het\ flu\u00EFdum\ in\ het\ vat\ ofwel\ naar\ boven,\ ofwel\ naar\ beneden\ beweegt.\n\ \n\ @author\ Jarne\ Machiels\n\ @version\ 17/11/2014\n
+numComments=2

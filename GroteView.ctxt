@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=GroteView(Model)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ GroteView\n\ \n\ @param\ model\ het\ model\ van\ de\ simulatie\n\ @author\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+comment1.params=pixelX
+comment1.target=int\ getCoordinaatX(int)
+comment1.text=\n\ Wat\ is\ de\ x-co\u00F6rdinaat\ van\ de\ simulatie?\n\ \n\ @param\ pixelX\ de\ pixel\ van\ de\ x-co\u00F6rdinaat\n\ @return\ x-co\u00F6rdinaat\ van\ de\ simulatie\n\ @author\ Robbe\ Bloemen\n\ @version\ 27/11/2014\n
+comment2.params=pixelY
+comment2.target=int\ getCoordinaatY(int)
+comment2.text=\n\ Wat\ is\ de\ y-co\u00F6rdinaat\ van\ de\ simulatie?\n\ \n\ @param\ pixelY\ de\ pixel\ van\ de\ x-co\u00F6rdinaat\n\ @return\ y-co\u00F6rdinaat\ van\ de\ simulatie\n\ @author\ Robbe\ Bloemen\n\ @version\ 27/11/2014\n
+comment3.params=m
+comment3.target=void\ addMouseListener(java.awt.event.MouseListener)
+comment3.text=\n\ Deze\ methode\ zal\ de\ MouseListener\ toevoegen.\n\ \n\ @param\ m\ MouseListener\n\ @author\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+comment4.params=a
+comment4.target=void\ addActionListener(java.awt.event.ActionListener)
+comment4.text=\n\ Deze\ methode\ zal\ de\ ActionListener\ toevoegen.\n\ \n\ @param\ a\ ActionListener\n\ @author\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+comment5.params=
+comment5.target=void\ repaint()
+comment5.text=\n\ Deze\ methode\ zal\ de\ kleine\ view\ en\ de\ widgets\ hertekenen.\n\ \n\ @author\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+numComments=6

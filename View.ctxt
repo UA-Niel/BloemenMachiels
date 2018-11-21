@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=View(Model)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ View\n\ \n\ @param\ m\ het\ model\ van\ de\ simulatie\n\ @author\ Robbe\ Bloemen\n\ @version\ 09/11/2014\n
+comment1.params=g
+comment1.target=void\ teken(java.awt.Graphics)
+comment1.text=\n\ Deze\ teken-methode\ zal\ er\ voor\ zorgen\ dat\ er\ geen\ flikkeringen\ op\ het\ scherm\ voorkomen.\n\ \n\ @param\ g\ de\ graphics\ van\ de\ simulate\n\ @author\ Jarne\ Machiels\n\ @version\ 20/11/2014\n
+comment2.params=g
+comment2.target=void\ update(java.awt.Graphics)
+comment2.text=\n\ Deze\ update-methode\ zal\ enkel\ nog\ de\ methode\ teken()\ uitvoeren.\n\ \n\ @param\ g\ de\ graphics\ van\ de\ simulatie\n\ @author\ Jarne\ Machiels\n\ @version\ 20/11/2014\n
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment3.text=\n\ In\ deze\ methode\ wordt\ de\ visualisatie\ van\ de\ simulatie\ beschreven.\ \n\ Zo\ zal\ ook\ de\ keuzen\ tussen\ planeten,\ verhogen/verlagen\ van\ diameter\ en\ debiet\ weergegeven\ worden.\n\ Verder\ zal\ ook\ de\ achtergrond\ getekend\ worden.\n\ \n\ @param\ g\ de\ graphics\ van\ de\ simulatie\n\ @author\ Robbe\ Bloemen\ en\ Jarne\ Machiels\n\ @version\ 10/11/2014\n
+comment4.params=g
+comment4.target=void\ tekenAchtergrond(java.awt.Graphics)
+comment4.text=\n\ Deze\ methode\ zal\ in\ staat\ zijn\ om\ de\ achtergrond\ van\ de\ simulatie\ (aarde,\ mars\ of\ maan)\ te\ visualiseren.\n\ \n\ @param\ g\ de\ graphics\ van\ de\ simulatie\ \n
+comment5.params=schermX
+comment5.target=int\ getCoordinaatX(int)
+comment5.text=\ Welke\ x-co\u00F6rdinaat\ komt\ overeen\ met\ de\ x-co\u00F6rdinaat\ op\ het\ scherm?\ \n\ \n\ @param\ schermX\ de\ x-co\u00F6rdinaat\ op\ het\ scherm\n\ @return\ x-co\u00F6rdinaat\n\ \n\ @author\ Jarne\ Machiels\n\ @version\ 26/11/2014\n
+comment6.params=schermY
+comment6.target=int\ getCoordinaatY(int)
+comment6.text=\ Welke\ y-co\u00F6rdinaat\ komt\ overeen\ met\ de\ y-co\u00F6rdinaat\ op\ het\ scherm?\ \n\ \n\ @param\ schermY\ de\ y-co\u00F6rdinaat\ op\ het\ scherm\n\ @return\ y-co\u00F6rdinaat\n\ @author\ Jarne\ Machiels\n\ @version\ 26/11/2014\n
+numComments=7

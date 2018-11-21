@@ -1,0 +1,49 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3
+-d
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\View.html...
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:29: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:29: warning - Tag @version cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:29: warning - @param argument "Model" is not a parameter name.
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:48: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:48: warning - Tag @version cannot be used in method documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\View.java:48: warning - @param argument "Graphics" is not a parameter name.
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\package-frame.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\package-summary.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\constant-values.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\serialized-form.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\allclasses-frame.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\allclasses-noframe.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\index.html...
+Generating C:\Users\Jarne Machiels\Desktop\ProjectGAJA-3\doc\stylesheet.css...
+6 warnings

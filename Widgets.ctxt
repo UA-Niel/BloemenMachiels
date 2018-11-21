@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=model
+comment0.target=Widgets(Model)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Widgets\n\ \n\ @param\ model\ het\ model\ van\ de\ simulatie\n\ @author\ Robbe\ Bloemen\ &\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+comment1.params=a
+comment1.target=void\ addActionListener(java.awt.event.ActionListener)
+comment1.text=\n\ Voeg\ een\ ActionListener\ toe\ aan\ de\ simulatie\n\ \n\ @param\ a\ ActionListener\n\ @author\ Jarne\ Machiels\n\ @version\ 27/11/2014\n
+numComments=2
